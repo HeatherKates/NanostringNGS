@@ -1,0 +1,25 @@
+Total reads: 1,572,421	
+Quality trimmed: 3,144,842 (200.00 %)	
+Adapter trimmed: 0 (0.00 %)	
+Hard trimmed: 0 (0.00 %)	
+Dropped after trim: 12,054 (0.77 %)	
+Remaining after trim: 1,560,367 (99.23 %)	
+
+Rescued by stitching: 351 (0.02 %)	
+Dropped after stitching: 18,599 (1.18 %)	
+Total after stitching: 1,542,119 (98.07 %)	
+
+Total reads matched: 1,481,267 (96.05 %)	
+Matched with HD0: 1,424,310 (92.36 %)	
+Matched with HD1: 55,967 (3.63 %)	
+Matched with 11bp barcode: 23 (0.00 %)	
+Matched by UMI: 992 (0.06 %)	
+Dropped as not matched: 60,501 (3.92 %)	
+UMI Q30: 0.9909	
+RTS Q30: 0.9917	
+
+Total reads dropped: 91,154 (5.80 %)	
+Reads after dedup: 69,888	
+
+Dedup time: 186 ms	
+Total execution time: 9,289 ms	

@@ -1,0 +1,8 @@
+Pool1: DSP count matches DCC file count (191)
+Pool1: Smallest DCC file is Pool1/Pool1_DCC/DSP-1001660005143-Y-A01.dcc with size 427 bytes
+Pool2: DSP count matches DCC file count (192)
+Pool2: Smallest DCC file is Pool2/Pool2_DCC/DSP-1001660005140-Y-A01.dcc with size 452 bytes
+Pool3: DSP count matches DCC file count (191)
+Pool3: Smallest DCC file is Pool3/Pool3_DCC/DSP-1001660005246-Y-A01.dcc with size 437 bytes
+Pool4: DSP count matches DCC file count (192)
+Pool4: Smallest DCC file is Pool4/Pool4_DCC/DSP-1001660005248-Y-A01.dcc with size 1156 bytes
