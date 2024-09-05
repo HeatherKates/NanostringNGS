@@ -56,3 +56,7 @@ After the pipeline finishes, run the following checks to verify the outputs:
 check_outputs.bash > check_outputs.txt
 ```
 
+## The final output file to upload to GeoMX DSP is:
+```bash
+ls Pool*/Pool*_DCC/*zip
+```
