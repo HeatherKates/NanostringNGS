@@ -2,7 +2,7 @@
 
 ## Setup Instructions
 
-### 1. Copy configuration files to the config files folder (`config_files`)
+### 1. Copy configuration files to the config files to the appropriate pool directory
 
 ### 2. Create symbolic links for the fastq file paths
 
